@@ -1,0 +1,28 @@
+# Cargo package manager generated folders
+/target/
+
+# If using Cargo.lock for libraries, ignore it (for binary crates, keep it)
+/Cargo.lock
+
+# Backup files and system files
+*.rs.bk
+*.swp
+*.swo
+
+# VSCode settings (optional)
+.vscode/
+
+# IntelliJ / CLion / RustRover IDE
+.idea/
+*.iml
+
+# Other OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rustup and Cargo config (only if global, not project-specific)
+.cargo/
+.rustup/
+
+# Logs and temp files
+*.log
