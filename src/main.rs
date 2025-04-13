@@ -4,4 +4,9 @@ fn main(){
     let num2 = String::from("2");
     let num3 = String::from("3");
     println!("{} , {} , {} , {}" , str1 , num1 , num2  , num3);
+
+    let string1 = String::from("Hello");
+    println!("{}" , string1);
 }
+
+
