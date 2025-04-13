@@ -1,4 +1,4 @@
 fn main(){
-    let s1 = String::from("Hello");
-    println!("{}" , s1);
+    let string1 = String::from("Hello");
+    println!("{}" , string1);
 }
